@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Deep Learning NLP documentation!
+Welcome to Python Machine Learning course!
 =====================================================
 
 .. toctree::
@@ -41,7 +41,7 @@ Welcome to Deep Learning NLP documentation!
 .. toctree::
   :maxdepth: 3
   :caption: Deep Learning
-  
+
   content/deep_learning/mlp
   content/deep_learning/cnn
   content/deep_learning/autoencoder
@@ -50,7 +50,4 @@ Welcome to Deep Learning NLP documentation!
    :maxdepth: 3
    :caption: Document Credentials
 
-
-   credentials/CONTRIBUTING
-   credentials/CODE_OF_CONDUCT
    credentials/LICENSE

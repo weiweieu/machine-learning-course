@@ -1,5 +1,5 @@
 .. figure:: _img/teaser.gif
-  :target: https://machinelearningmindset.com/blog/'
+  :target: https://machinelearningmindset.com/blog/
   
 .. figure:: _img/subscribe.gif
   :target: https://machinelearningmindset.com/subscription/
@@ -16,8 +16,15 @@ A Machine Learning Course with Python
       :target: https://www.python.org/
 .. image:: https://img.shields.io/github/contributors/machinelearningmindset/machine-learning-course.svg
       :target: https://github.com/machinelearningmindset/machine-learning-course/graphs/contributors
+.. image:: https://img.shields.io/badge/book-pdf-blue.svg
+   :target: https://machinelearningmindset.com/wp-content/uploads/2019/06/machine-learning-course.pdf
+.. image:: https://img.shields.io/badge/official-documentation-green.svg
+   :target: https://machine-learning-course.readthedocs.io/en/latest/
 .. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
       :target: https://twitter.com/machinemindset
+   
+   
+   
 
 
 
@@ -33,7 +40,13 @@ Introduction
 ========================
 
 The purpose of this project is to provide a comprehensive and yet simple course in Machine Learning using Python.
+You can access to the full documentation with the following links: |Book| |Documentation|
 
+
+.. |Book| image:: https://img.shields.io/badge/book-pdf-blue.svg
+   :target: https://machinelearningmindset.com/wp-content/uploads/2019/06/machine-learning-course.pdf
+.. |Documentation| image:: https://img.shields.io/badge/official-documentation-green.svg
+   :target: https://machine-learning-course.readthedocs.io/en/latest/
 
 ============
 Motivation
